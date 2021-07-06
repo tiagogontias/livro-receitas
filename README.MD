@@ -2,6 +2,7 @@
 
 Olá! Bem vindo ao meu livro de receitas :cook
  - Strogonoff de frango
+ - Pavê
 
 ### Fonte da Receita
 https://www.tudogostoso.com.br/receita/2462-strogonoff-de-frango.html
